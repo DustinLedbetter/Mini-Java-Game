@@ -1,0 +1,18 @@
+/////////////////////
+//Dustin Ledbetter //
+//Rules/Controls   //
+/////////////////////
+
+Rules//////////////////////////////////////////////////
+The Players can move up and down and shoot at each other.
+The first Player to reach ten hits on his opponent wins.
+
+Player 1//////////////////////////////////////////////
+"w" = go up
+"s" = go down
+"space bar" = shoot
+
+Player 2//////////////////////////////////////////////
+"up arrow" = go up
+"down arrow" = go down
+"Enter" = shoot
