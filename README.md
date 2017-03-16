@@ -1,6 +1,6 @@
 # Mini-Java-Game
 Game I made while refreshing my skills with JAVA using the Eclipse IDE <br>
-I started this project last year and finally finished this year.<br><br>
+I started this project in the year 2016 and finally finished this year 2017<br><br><br>
 
 
 Rules<br>
